@@ -7,51 +7,35 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 **Contributors** : Francis Bach, Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
 
 ## Table of Contents
-To Do | [Contribution guidelines](#guidelines) | [Matlab code](#matlab-code) | [Python code](#python)
+[To Do](#to-do) | [Contribution guidelines](#guidelines) | [Python code](#python-code) | [Matlab code](#matlab-code) 
 <br>
 
 ## To Do 
 
-**Figures still to do** :
+**Figures still to be done in python** :
 
-- Figure 5.3
-- Figure 7.3
-- Figure 8.2
-- Figures 9.1, 9.2
-
-
-**Figures Done** :
-- Chapter 1 :
-  - 1.1: Shane
-- Chapter 2
-  - 2.1: Camille
-  - 2.2: Gabriel
-- Chapter 3
-  - 3.1: Maria
-  - 3.2: Shane
-  - 3.3: Shane
-- Chapter 4
-  - 4.1: Berné
-  - 4.2: Gabriel
-- Chapter 5
-  - 5.1: Berné
-  - 5.2: Berné
-  - 5.3: Gabriel
-- Chapter 6 :  Berné
-- Chapter 7
-  - 7.2: Berné
-  - 7.3: Gabriel (currently)
-- Chapter 8
-  - 8.1: Berné
-  - 8.2 : Camille (doing)
-- Chapter 9
-  - 9.1 Shane (doing)
-  - 9.2
-  - 9.3 Gabriel
+- [ ] Figure 5.3
+- [ ] Figure 7.3
+- [ ] Figure 8.2
+- [ ] Figures 9.1, 9.2
 
 <br>
 
 ## Guidelines
+<br>
+
+## Python Code
+The Python code is organized into individual notebooks for each chapter :
+- Chapter 1: [Mathematical preliminaries](python/1_mathematical_preliminaries.ipynb)
+- Chapter 2: [Introduction to supervised learning](python/2_introduction_supervised_learning.ipynb)
+- Chapter 3: [Linear least-squares regres](python/3_least_squares.ipynb)
+- Chapter 4: [Empirical risk minimization](python/4_empirical_risk_minimization.ipynb)
+- Chapter 5: [Optimization](python/5_optimization.ipynb)
+- Chapter 6: [Local averaging methods](python/6_local_averaging.ipynb)
+- Chapter 7: [Kernel methods](python/7_kernels.ipynb)
+- Chapter 8: [Sparse methods](python/8_model_selection.ipynb)
+- Chapter 9: [Neural networks](python/9_neural_networks.ipynb)
+
 <br>
 
 ## Matlab code
@@ -117,7 +101,3 @@ To Do | [Contribution guidelines](#guidelines) | [Matlab code](#matlab-code) | [
 - [Figure 9.1](matlab/neural_networks/neural_networks_1d_testerrors.m) (global convergence for different numbers of neurons) + [launch_training_relu_nn.m](matlab/neural_networks/launch_training_relu_nn.m)
 - [Figure 9.2](matlab/neural_networks/random_features_interpolation.m) (random features - kernels)
 - [Figure 9.3](matlab/neural_networks/neural_networks_1d.m) (neural networks fitting)
-
-
-## Python 
-Python code is stored in a single notebook.
