@@ -8,7 +8,7 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 <br>
 
 ## Table of Contents
-[To Do](#to-do) | [Contribution guidelines](#guidelines) | [Python code](#python-code) | [Matlab code](#matlab-code) 
+[To Do](#to-do) | [Contribution guidelines](#contribution-guidelines) | [Python code](#python-code) | [Matlab code](#matlab-code) 
 <br>
 <br>
 
@@ -23,7 +23,7 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 
 <br>
 
-## Guidelines
+## Contribution Guidelines
 <br>
 
 ## Python Code
