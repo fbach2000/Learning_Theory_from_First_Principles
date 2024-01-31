@@ -1,5 +1,5 @@
 # Learning Theory from First Principles
-Python code for the figures from Francis Bach's book "Learning Theory from First Principles" (in preparation)
+Python code for the figures from the book "Learning Theory from First Principles" by Francis Bach (in preparation)
 
 
 See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf).
@@ -24,6 +24,31 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 <br>
 
 ## Contribution Guidelines
+You can edit the python notebooks to reproduce missing figures (they are all done in Matlab, but a couple of them are not reproduced in python yet, see [To Do](#to-do))
+Make sure you have a Github account and git installed on your local machine.
+
+### 1. Fork the repository & clone it
+Go to the repository page & click on the "Fork" button in the top-right corner of the page. This creates a personal copy of the repository under your GitHub account.
+
+After creating your personnal copy, you can clone the repository :
+```
+git clone https://github.com/your-username/Learning_Theory_from_First_Principles/
+cd Learning_Theory_from_First_Principles/
+```
+Replace **your-username** with your Github username.
+
+### 2. Make changes, commit & push
+When you are satisfied with your changes, you can commit and push them. Please use a descriptive commit message.
+```
+git add . && git commit -am "<Your commit description>" && git push
+```
+
+### 3. Create a pull request
+Once you are done with all your changes and would like to submit your contribution to the main repository, you can **open a Pull Request**
+- Visit your fork on GitHub.
+- Click on the **"Compare & pull request"** button.
+- Provide a meaningful title and description for your pull request (e.g. "Adding missing figure fig-3-2")
+- Click on the "Create pull request" button.
 <br>
 
 ## Python Code
