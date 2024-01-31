@@ -25,6 +25,7 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 
 ## Contribution Guidelines
 You can edit the python notebooks to reproduce missing figures (they are all done in Matlab, but a couple of them are not reproduced in python yet, see [To Do](#to-do))
+
 Make sure you have a Github account and git installed on your local machine.
 
 ### 1. Fork the repository & clone it
