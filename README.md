@@ -7,7 +7,48 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 **Contributors** : Francis Bach, Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
 
 ## Table of Contents
-[Contribution guidelines](#guidelines) | [Matlab code](#matlab-code) | [Python code](#python)
+To Do | [Contribution guidelines](#guidelines) | [Matlab code](#matlab-code) | [Python code](#python)
+<br>
+
+## To Do 
+
+**Figures still to do** :
+
+- Figure 5.3
+- Figure 7.3
+- Figure 8.2
+- Figures 9.1, 9.2
+
+
+**Figures Done** :
+- Chapter 1 :
+  - 1.1: Shane
+- Chapter 2
+  - 2.1: Camille
+  - 2.2: Gabriel
+- Chapter 3
+  - 3.1: Maria
+  - 3.2: Shane
+  - 3.3: Shane
+- Chapter 4
+  - 4.1: Berné
+  - 4.2: Gabriel
+- Chapter 5
+  - 5.1: Berné
+  - 5.2: Berné
+  - 5.3: Gabriel
+- Chapter 6 :  Berné
+- Chapter 7
+  - 7.2: Berné
+  - 7.3: Gabriel (currently)
+- Chapter 8
+  - 8.1: Berné
+  - 8.2 : Camille (doing)
+- Chapter 9
+  - 9.1 Shane (doing)
+  - 9.2
+  - 9.3 Gabriel
+
 <br>
 
 ## Guidelines
