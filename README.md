@@ -4,7 +4,7 @@ Python code for the figures of the book "Learning Theory from First Principles" 
 
 See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf).
 
-**Contributors** : Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
+**Contributors** : Francis Bach, Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
 
 ## Table of Contents
 [Contribution guidelines](#guidelines) | [Matlab code](#matlab-code) | [Python code](#python)
