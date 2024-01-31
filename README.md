@@ -5,7 +5,7 @@ Python code for the figures of the book "Learning Theory from First Principles" 
 See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf).
 
 ## Table of Contents
-
+[Contribution guidelines](#guidelines) | [Matlab code](#matlab) | [Python code](#python)
 <br>
 
 ## Guidelines
@@ -73,4 +73,8 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 
 - [Figure 9.1](matlab/neural_networks/neural_networks_1d_testerrors.m) (global convergence for different numbers of neurons) + [launch_training_relu_nn.m](matlab/neural_networks/launch_training_relu_nn.m)
 - [Figure 9.2](matlab/neural_networks/random_features_interpolation.m) (random features - kernels)
-- [Figure 9.3](matlab/neural_networks/neural_networks_1d.m) (neural networks fitting) 
+- [Figure 9.3](matlab/neural_networks/neural_networks_1d.m) (neural networks fitting)
+
+
+## Python 
+Python code is stored in a single notebook.
