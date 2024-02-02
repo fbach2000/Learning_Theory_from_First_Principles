@@ -7,7 +7,6 @@ See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.
 **Contributors** : 
 - Matlab Figures : Francis Bach
 - Reproduction in Python : Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
-<br>
 
 ## Table of Contents
 [To Do](#to-do) | [Contribution guidelines](#contribution-guidelines) | [Python code](#python-code) | [Matlab code](#matlab-code) 
