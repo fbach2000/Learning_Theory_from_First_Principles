@@ -1,5 +1,5 @@
 # Learning Theory from First Principles
-Python code for the figures from the book "Learning Theory from First Principles" by Francis Bach (in preparation)
+Python & Matlab code for the figures from the book "Learning Theory from First Principles" by Francis Bach (in preparation)
 
 
 See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf).
