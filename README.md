@@ -4,7 +4,9 @@ Python & Matlab code for the figures from the book "Learning Theory from First P
 
 See available draft of the book [here](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf).
 
-**Contributors** : Francis Bach, Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
+**Contributors** : 
+- Matlab Figures : Francis Bach
+- Reproduction in Python : Maria Bastiani, Gabriel Fiastre, Shane Hoeberichts, Camille Leempoels, Berné Nortier
 <br>
 
 ## Table of Contents
