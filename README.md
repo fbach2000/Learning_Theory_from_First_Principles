@@ -29,6 +29,9 @@ You can edit the python notebooks to reproduce missing figures (they are all don
 
 Make sure you have a Github account and git installed on your local machine.
 
+### 0. Contact Me 
+[Contact me](https://www.di.ens.fr/~fbach/) before so we can discuss any potential contribution, what is needed etc.
+
 ### 1. Fork the repository & clone it
 Go to the repository page & click on the "Fork" button in the top-right corner of the page. This creates a personal copy of the repository under your GitHub account.
 
